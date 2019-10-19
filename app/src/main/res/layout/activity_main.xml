@@ -24,6 +24,7 @@
             android:layout_margin="10dp" />
 
         <!-- 密码 -->
+        <!-- ctrl /  -->
         <EditText
             android:id="@+id/et_password"
             android:layout_width="match_parent"

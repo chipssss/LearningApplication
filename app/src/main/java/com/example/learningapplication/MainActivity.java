@@ -13,16 +13,16 @@ public class MainActivity extends AppCompatActivity {
     EditText etUsername;
     EditText etPassword;
     Button btLogin;
-    // ctrl d
+    // ctrl d 复制行到下一行
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        // alt + 单击
+        // alt + 单击 点击进入资源文件
         // xml View
         setContentView(R.layout.activity_main);
         // view
-        // ctrl enter
+        // alt + enter 快速创建方法
         initView();
 
         // Model 网络数据 本地数据 内存数据 JavaBean
