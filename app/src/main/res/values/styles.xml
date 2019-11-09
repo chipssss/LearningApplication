@@ -8,4 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="TextViewM">
+        <item name="android:textSize">22sp</item>
+        <item name="android:layout_margin">8dp</item>
+    </style>
+
 </resources>
