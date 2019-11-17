@@ -13,4 +13,9 @@
 	书籍：第一行代码
 
 - clone 文件：
+
     File >> New >> Open from version controller >> git >> copy url
+    
+- 快捷方式
+
+    alt+insert >> 生成构造方法 getter setter toString
