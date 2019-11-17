@@ -11,3 +11,6 @@
 - android基础
 
 	书籍：第一行代码
+
+- clone 文件：
+    File >> New >> Open from version controller >> git >> copy url
