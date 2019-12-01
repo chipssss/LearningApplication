@@ -11,6 +11,7 @@
 - android基础
 
 	书籍：第一行代码
+	Retrofit: [基础篇](https://www.jianshu.com/p/5bc866b9cbb9), 看完看作者的高级封装篇
 
 - clone 文件：
 
@@ -19,3 +20,7 @@
 - 快捷方式
 
     alt+insert >> 生成构造方法 getter setter toString
+
+- Idea快捷键学习
+
+    https://www.imooc.com/learn/924
