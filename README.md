@@ -32,7 +32,7 @@
 - Retroift学习
 
     [Retrofit   RxJava ＋ OkHttp 让网络请求变的简单-基础篇 - 简书](https://www.jianshu.com/p/5bc866b9cbb9)
-    [Retrofit   RxJava ＋ OkHttp 让网络请求变的简单-封装篇 - 简书](Retrofit   RxJava ＋ OkHttp 让网络请求变的简单-封装篇 - 简书)
+    [Retrofit   RxJava ＋ OkHttp 让网络请求变的简单-封装篇 - 简书](https://www.jianshu.com/p/811ba49d0748)
     [官方API](https://link.jianshu.com/?t=http://square.github.io/retrofit/)
     
 - APP搭建系列
